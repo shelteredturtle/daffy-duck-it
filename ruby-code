@@ -1,4 +1,7 @@
-print "Thtring, pleathe!: "
+print "Welcome to the Daffy Duck it! app!"
+print "This is a variation of an exercise found on CodeAcademy.com."
+print "Begin program below."
+print "What phrase would you like translated into Daffy Duck speak?"
 user_input = gets.chomp
 user_input.downcase!
 
